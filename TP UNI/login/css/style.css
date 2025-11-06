@@ -1,0 +1,16 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #212529;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+form {
+  max-width: 600px;
+  margin: 0 auto;
+}
