@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+}
+
+.card {
+  max-width: 600px;
+  margin: 0 auto;
+  border-radius: 12px;
+}
+
+button {
+  width: 60%;
+}
